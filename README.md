@@ -61,8 +61,4 @@ This project is licensed under the MIT License.
 
 ⭐️ Don't forget to star this repository if you like it! 😊
 
-javascript
-Copy
-Edit
 
-Replace placeholders like `YourUsername`, `Live Demo`, and `#` with your actual GitHub username, demo URL, 
